@@ -35,8 +35,6 @@ La quatrième étape consiste à activer la connexion BLE sur la carte Arduino N
 
 Envoi des données par BLE
 La cinquième étape consiste à envoyer les données par BLE vers Node-RED. 
-
-![image](https://github.com/saidg78/projet_B/assets/148437845/d1fb73b4-fc1a-45cc-8beb-991906f88c9d)
 ![image](https://github.com/saidg78/projet_B/assets/148437845/73e506ee-41c6-4b02-bef5-8ada8b902f91)
 
 
